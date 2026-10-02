@@ -1129,26 +1129,8 @@ The project provides a practical SQL portfolio example for demonstrating **Data 
 
 ---
 
-# 📁 Project Files
-
-```text
-Amazon-Sales-Analysis/
-│
-├── README.md
-├── amazon_sales.sql
-└── Dataset files
-```
-
-> Add the CSV files used for the Amazon sales database to the repository if you want the complete dataset and SQL project to be available together.
-
----
-
 # 👨‍💻 Author
 
 **Solomon Isaac**
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Python
-
----
-
-⭐ If you find this project useful, feel free to explore the SQL queries and analysis.
